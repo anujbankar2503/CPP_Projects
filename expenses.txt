@@ -1,0 +1,4 @@
+1,Travel,280,25-07-27,Uber Ride
+2,Food,180,25-07-27,Pizza
+3,Bills,300,25-07-27,Electricity bill
+4,Food,280,25-07-27,Pav Bhaji
